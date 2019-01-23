@@ -1,5 +1,5 @@
 {
-  "name": "FlashCards",
+  "name": "cards",
   "version": "2.2",
   "private": true,
   "devDependencies": {
