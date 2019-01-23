@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "orientation": "portrait",
+    "name": "FlashCards",
+    "description": "FlashCards...",
+    "slug": "flashcards",
+    "version": "2.2",
+    "icon": "./assets/img/cubeOutline-512.png",
+    "notification": {
+      "icon": "./assets/img/cubeOutline-32.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.flashcardsTest.exp",
+    },
+    "android": {
+     "package": "org.flashcardsTest.exp",
+    }
+  },
+}
