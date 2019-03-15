@@ -1,5 +1,7 @@
 # FlashCards
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpersonalwebsite/cards.svg)](https://greenkeeper.io/)
+
 * Install dependencies
 
   * `yarn install` or `npm install`
