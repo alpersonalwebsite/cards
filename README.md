@@ -1,6 +1,7 @@
 # FlashCards
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/alpersonalwebsite/cards.svg)](https://greenkeeper.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 * Install dependencies
 
@@ -19,28 +20,32 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
-* [Updating to New Releases](#updating-to-new-releases)
-* [Available Scripts](#available-scripts)
-  * [npm start](#npm-start)
-  * [npm test](#npm-test)
-  * [npm run ios](#npm-run-ios)
-  * [npm run android](#npm-run-android)
-  * [npm run eject](#npm-run-eject)
-* [Writing and Running Tests](#writing-and-running-tests)
-* [Environment Variables](#environment-variables)
-  * [Configuring Packager IP Address](#configuring-packager-ip-address)
-* [Adding Flow](#adding-flow)
-* [Customizing App Display Name and Icon](#customizing-app-display-name-and-icon)
-* [Sharing and Deployment](#sharing-and-deployment)
-  * [Publishing to Expo's React Native Community](#publishing-to-expos-react-native-community)
-  * [Building an Expo "standalone" app](#building-an-expo-standalone-app)
-  * [Ejecting from Create React Native App](#ejecting-from-create-react-native-app)
-    * [Build Dependencies (Xcode & Android Studio)](#build-dependencies-xcode-android-studio)
-    * [Should I Use ExpoKit?](#should-i-use-expokit)
-* [Troubleshooting](#troubleshooting)
-  * [Networking](#networking)
-  * [iOS Simulator won't open](#ios-simulator-wont-open)
-  * [QR Code does not scan](#qr-code-does-not-scan)
+- [FlashCards](#FlashCards)
+  - [Testing Note](#Testing-Note)
+  - [Table of Contents](#Table-of-Contents)
+  - [Updating to New Releases](#Updating-to-New-Releases)
+  - [Available Scripts](#Available-Scripts)
+    - [`npm start`](#npm-start)
+      - [`npm test`](#npm-test)
+      - [`npm run ios`](#npm-run-ios)
+      - [`npm run android`](#npm-run-android)
+        - [Using Android Studio's `adb`](#Using-Android-Studios-adb)
+        - [Using Genymotion's `adb`](#Using-Genymotions-adb)
+      - [`npm run eject`](#npm-run-eject)
+  - [Customizing App Display Name and Icon](#Customizing-App-Display-Name-and-Icon)
+  - [Writing and Running Tests](#Writing-and-Running-Tests)
+  - [Environment Variables](#Environment-Variables)
+    - [Configuring Packager IP Address](#Configuring-Packager-IP-Address)
+  - [Adding Flow](#Adding-Flow)
+  - [Sharing and Deployment](#Sharing-and-Deployment)
+    - [Publishing to Expo's React Native Community](#Publishing-to-Expos-React-Native-Community)
+    - [Building an Expo "standalone" app](#Building-an-Expo-%22standalone%22-app)
+    - [Ejecting from Create React Native App](#Ejecting-from-Create-React-Native-App)
+      - [Should I Use ExpoKit?](#Should-I-Use-ExpoKit)
+  - [Troubleshooting](#Troubleshooting)
+    - [Networking](#Networking)
+    - [iOS Simulator won't open](#iOS-Simulator-wont-open)
+    - [QR Code does not scan](#QR-Code-does-not-scan)
 
 ## Updating to New Releases
 
