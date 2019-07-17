@@ -1,6 +1,7 @@
 # FlashCards
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/alpersonalwebsite/cards.svg)](https://greenkeeper.io/)
+[![CircleCI](https://circleci.com/gh/cards.svg?style=shield)](https://circleci.com/gh/alpersonalwebsite/cards)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 * Install dependencies
